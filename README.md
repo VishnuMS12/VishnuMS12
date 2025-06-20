@@ -1,4 +1,4 @@
-<h1 align="left">Hi ,I'm Vishnu M S 👋</h1>
+[<h1 align="left">Hi ,I'm Vishnu M S 👋</h1>
 <h3 align="left">A passionate Python developer & Programming Faculty</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnums12&label=Profile%20views&color=0e75b6&style=flat" alt="vishnums12" /> </p>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnums12&show_icons=true&locale=en" alt="vishnums12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnums12&" alt="vishnums12" /></p>
+](https://github.com/VishnuMS12)
