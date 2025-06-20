@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Gtec Ravipuram**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/vishnu-ms-ba2125221](www.linkedin.com/in/vishnu-ms-ba2125221)
+- 👨‍💻 All of my projects are available at [[www.linkedin.com/in/vishnu-ms-ba2125221](www.linkedin.com/in/vishnu-ms-ba2125221](https://github.com/VishnuMS12))
 
 - 💬 Ask me about **Python django,JAVA,C,C++,HTML,CSS,JAVASCRIPT**
 
