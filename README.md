@@ -1,11 +1,11 @@
 <h1 align="left">Hi ,I'm Vishnu M S 👋</h1>
 <h3 align="left">A passionate Python developer & Programming Faculty</h3>
 
-<p align="left"> <img /> </p>
+<p align="left"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnums12" alt="vishnums12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Avodha Kollam**
 
