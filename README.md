@@ -1,7 +1,7 @@
 <h1 align="left">Hi ,I'm Vishnu M S 👋</h1>
 <h3 align="left">A passionate Python developer & Programming Faculty</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnums12&label=Profile%20views&color=0e75b6&style=flat" alt="vishnums12" /> </p>
+<p align="left"> <img /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnums12" alt="vishnums12" /></a> </p>
 
