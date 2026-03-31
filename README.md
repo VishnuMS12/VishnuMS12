@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Avodha Kollam**
+- 👨‍💻 4 Year working experience in **Gtec Ravipuram**,Eranakulam(Python Django Trainer/Developer)
 
 - 👨‍💻 All of my projects are available at https://github.com/VishnuMS12
 
